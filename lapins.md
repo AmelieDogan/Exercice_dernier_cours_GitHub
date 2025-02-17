@@ -1,5 +1,7 @@
 # Toutes les races de lapins
 
+> Une vie sans lapins est une triste vie...
+
 Aujourd’hui, il existe une soixantaine de races de lapins reconnues officiellement (et plus de 150 au total). Elles sont différenciées par leur taille, leur longueur, la couleur de leur pelage ou la forme de leur crâne. Elles vont du Géant des Flandres, qui peut peser plus de 8kg au petit lapin Hollandais qui ne dépasse pas 1kg.
 
 La plupart des races présentes en France sont répertoriées par la Fédération française de Cuniculiculture. Les lapins sont classés en cinq catégories :
